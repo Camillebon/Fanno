@@ -10,7 +10,7 @@ body{
 }
 body, *{
     margin: 0;
-    padding: 0;
+    height: 154px;
     font-family: 'Lobster', cursive;
 }
 h1{
